@@ -1,5 +1,6 @@
 # tiktok-reposter
 reposts tiktok videos to Instagram &amp; Youtube for easier reposting and if you want to save a quick buck from the overly priced nonsense. Made 100% skidded from ai, props to Codex because im a skid at heart. Ill never touch a while true loop in my lifespan
+OOH YEA forgot to mention theres a tutorial if you are stupid like me for instagram instagram is like 90x more tedious than youtube is so good lucck!!
 # TikTok Repost Studio
 
 A Windows desktop app for downloading TikTok clips, choosing which videos to repost, and uploading them to YouTube Shorts or Instagram Reels.
